@@ -38,16 +38,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishhazra&show_icons=true&locale=en&layout=compact" alt="anishhazra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishhazra&show_icons=true&locale=en" alt="anishhazra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishhazra&" alt="anishhazra" /></p>
-
-<hr/>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
